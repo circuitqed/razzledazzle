@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c414b27e-e938-4ce3-a212-b4640cba3744" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_medium.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_medium.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_test.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00001_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00001_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00001_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00002_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00002_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00002_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00003_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00003_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00003_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00004_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00004_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00004_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00005_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00005_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00005_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00006_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00006_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00006_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00007_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00007_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00007_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00008_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00008_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00008_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00009_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00009_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00009_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00010_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00010_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00010_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00011_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00011_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00011_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00012_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00012_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00012_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00013_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00013_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00013_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00014_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00014_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00014_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00015_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00015_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00015_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00016_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00016_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00016_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00017_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00017_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00017_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00018_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00018_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00018_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00019_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00019_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00019_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00020_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00020_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00020_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00021_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00021_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00021_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00022_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00022_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00022_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00023_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00023_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00023_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00024_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00024_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00024_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00025_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00025_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00025_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00026_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00026_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00026_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00027_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00027_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00027_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00028_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00028_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00028_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00029_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00029_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00029_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00030_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00030_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00030_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00031_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00031_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00031_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00032_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00032_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00032_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00033_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00033_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00033_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00034_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00034_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00034_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00035_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00035_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00035_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00036_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00036_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00036_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00037_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00037_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00037_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00038_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00038_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00038_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00039_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00039_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00039_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00040_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00040_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00040_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00041_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00041_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00041_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00042_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00042_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00042_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00043_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00043_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00043_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00044_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00044_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00044_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00045_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00045_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00045_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00046_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00046_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00046_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00047_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00047_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00047_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00048_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00048_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00048_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00049_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00049_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00049_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00050_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00050_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00050_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00051_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00051_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00051_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00052_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00052_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00052_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00053_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00053_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00053_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00054_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00054_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00054_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00055_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00055_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00055_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00056_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00056_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00056_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00057_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00057_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00057_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00058_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00058_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00058_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00059_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00059_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00059_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00060_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00060_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00060_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00061_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00061_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00061_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00062_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00062_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00062_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00063_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00063_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00063_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00064_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00064_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00064_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00065_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00065_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00065_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00066_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00066_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00066_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00067_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00067_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00067_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00068_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00068_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00068_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00069_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00069_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00069_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00070_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00070_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00070_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00071_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00071_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00071_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00072_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00072_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00072_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00073_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00073_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00073_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00074_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00074_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00074_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00075_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00075_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00075_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00076_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00076_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00076_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00077_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00077_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00077_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00078_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00078_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00078_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00079_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00079_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00079_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00080_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00080_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00080_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00081_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00081_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00081_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00082_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00082_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00082_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00083_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00083_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00083_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00084_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00084_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00084_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00085_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00085_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00085_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00086_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00086_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00086_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00087_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00087_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00087_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00088_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00088_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00088_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00089_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00089_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00089_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00090_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00090_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00090_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00091_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00091_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00091_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00092_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00092_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00092_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00093_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00093_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00093_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00094_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00094_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00094_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00095_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00095_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00095_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00096_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00096_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00096_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00097_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00097_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00097_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00098_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00098_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00098_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00099_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00099_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00099_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00100_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00100_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00100_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00101_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00101_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00101_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00102_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00102_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00102_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00103_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00103_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00103_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00104_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00104_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00104_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00105_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00105_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00105_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00106_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00106_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00106_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00107_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00107_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00107_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00108_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00108_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00108_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00109_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00109_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00109_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00110_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00110_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00110_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00111_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00111_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00111_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00112_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00112_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00112_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00113_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00113_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00113_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00114_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00114_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00114_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00115_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00115_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00115_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00116_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00116_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00116_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00117_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00117_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00117_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00118_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00118_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00118_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00119_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00119_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00119_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00120_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00120_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00120_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00121_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00121_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00121_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00122_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00122_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00122_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00123_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00123_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00123_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00124_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00124_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00124_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00125_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00125_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00125_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00126_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00126_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00126_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00127_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00127_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00127_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00128_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00128_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00128_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00129_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00129_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00129_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00130_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00130_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00130_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00131_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00131_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00131_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00132_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00132_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00132_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00133_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00133_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00133_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00134_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00134_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00134_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00135_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00135_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00135_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00136_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00136_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00136_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00137_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00137_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00137_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00138_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00138_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00138_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00139_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00139_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00139_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00140_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00140_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00140_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00141_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00141_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00141_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00142_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00142_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00142_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00143_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00143_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00143_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00144_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00144_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00144_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00145_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00145_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00145_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00146_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00146_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00146_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00147_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00147_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00147_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00148_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00148_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00148_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00149_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00149_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00149_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00150_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00150_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00150_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00151_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00151_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00151_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00152_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00152_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00152_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00153_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00153_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00153_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00154_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00154_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00154_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00155_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00155_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00155_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00156_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00156_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00156_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00157_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00157_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00157_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00158_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00158_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00158_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00159_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00159_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00159_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00160_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00160_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00160_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00161_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00161_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00161_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00162_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00162_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00162_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00163_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00163_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00163_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00164_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00164_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00164_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00165_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00165_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00165_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00166_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00166_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00166_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00167_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00167_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00167_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00168_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00168_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00168_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00169_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00169_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00169_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00170_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00170_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00170_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00171_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00171_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00171_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00172_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00172_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00172_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00173_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00173_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00173_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00174_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00174_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00174_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00175_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00175_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00175_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00176_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00176_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00176_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00177_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00177_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00177_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00178_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00178_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00178_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00179_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00179_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00179_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00180_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00180_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00180_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00181_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00181_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00181_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00182_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00182_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00182_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00183_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00183_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00183_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00184_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00184_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00184_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00185_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00185_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00185_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00186_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00186_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00186_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00187_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00187_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00187_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00188_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00188_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00188_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00189_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00189_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00189_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00190_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00190_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00190_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00191_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00191_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00191_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00192_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00192_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00192_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00193_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00193_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00193_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00194_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00194_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00194_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00195_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00195_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00195_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00196_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00196_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00196_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00197_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00197_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00197_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00198_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00198_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00198_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00199_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00199_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00199_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00200_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00200_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00200_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00201_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00201_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00201_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00202_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00202_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00202_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00203_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00203_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00203_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00204_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00204_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00204_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00205_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00205_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00205_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00206_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00206_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00206_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00207_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00207_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00207_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00208_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00208_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00208_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00209_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00209_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00209_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00210_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00210_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00210_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00211_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00211_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00211_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00212_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00212_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00212_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00213_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00213_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00213_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00214_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00214_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00214_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00215_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00215_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00215_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00216_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00216_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00216_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00217_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00217_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00217_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00218_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00218_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00218_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00219_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00219_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00219_iter.bot_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00220_iter.bot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00220_iter.bot.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/big.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/iterative.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/iterative_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/medium.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/medium_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test_dataset.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db_create.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mnist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="razzledazzle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/razzledazzle$rd_model.coverage" NAME="rd_model Coverage Results" MODIFIED="1500517218763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/razzledazzle$generate_schedules.coverage" NAME="generate_schedules Coverage Results" MODIFIED="1488485159947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions" />
+    <SUITE FILE_PATH="coverage/razzledazzle$Nosetests_in_mnist_py.coverage" NAME="Nosetests in mnist.py Coverage Results" MODIFIED="1500323568589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/razzledazzle$mnist.coverage" NAME="mnist Coverage Results" MODIFIED="1500325119543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/UofC/code/razzledazzle" />
+    <SUITE FILE_PATH="coverage/razzledazzle$rd_bots.coverage" NAME="test_bots Coverage Results" MODIFIED="1500390697495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/UofC/code/razzledazzle/tests" />
+    <SUITE FILE_PATH="coverage/razzledazzle$Nosetests_in_mnist_example_py.coverage" NAME="Nosetests in mnist_example.py Coverage Results" MODIFIED="1500323222365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/razzledazzle$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1500475130492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/razzledazzle$make_letters.coverage" NAME="make_letters Coverage Results" MODIFIED="1488320121456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="razzledazzle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="rd_model_old.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rd_model_old.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="270" column="17" lean-forward="false" selection-start-line="270" selection-start-column="17" selection-end-line="270" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rd_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rd_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2370">
+              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="109" column="25" lean-forward="false" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#526#1188#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datamanagement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/_Lib/python/slab/datamanagement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2280">
+              <caret line="565" column="0" lean-forward="false" selection-start-line="565" selection-start-column="0" selection-end-line="565" selection-end-column="0" />
+              <folding>
+                <element signature="e#1215#1233#0" expanded="true" />
+                <element signature="e#1385#2501#0" expanded="false" />
+                <element signature="e#2533#4143#0" expanded="false" />
+                <element signature="e#4178#4496#0" expanded="false" />
+                <element signature="e#4530#4679#0" expanded="false" />
+                <element signature="e#4706#6473#0" expanded="false" />
+                <element signature="e#6505#8175#0" expanded="false" />
+                <element signature="e#8209#15491#0" expanded="false" />
+                <element signature="e#15559#15985#0" expanded="false" />
+                <element signature="e#16010#16235#0" expanded="false" />
+                <element signature="e#16287#16388#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rd_helpers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rd_helpers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multitraining notebook.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Multitraining notebook.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rd_bots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rd_bots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="132" column="61" lean-forward="false" selection-start-line="132" selection-start-column="61" selection-end-line="132" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nose</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/sunfish-master/sunfish.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions/jinja-test.tex" />
+        <option value="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions/make_letters.py" />
+        <option value="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions/schedule-template.tex" />
+        <option value="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions/UofCDefs.tex" />
+        <option value="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions/generate_schedules.py" />
+        <option value="$USER_HOME$/Dropbox/UofC Administrative/administrative/2016-2017/admissions/FinalSchedule.txt" />
+        <option value="$PROJECT_DIR$/mnist_example.py" />
+        <option value="$PROJECT_DIR$/mnist.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/python-skeletons/py/path/__init__.py" />
+        <option value="$USER_HOME$/Dropbox/UofC/code/razzledazzle/rd_bots.py" />
+        <option value="$PROJECT_DIR$/tests/test_bots.py" />
+        <option value="$PROJECT_DIR$/trainer.py" />
+        <option value="$PROJECT_DIR$/rd_model.py" />
+        <option value="$PROJECT_DIR$/rd_helpers.py" />
+        <option value="$PROJECT_DIR$/Multitraining notebook.ipynb" />
+        <option value="$PROJECT_DIR$/rd_bots.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="99" />
+    <option name="y" value="23" />
+    <option name="width" value="1450" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="razzledazzle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="razzledazzle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="SQL Dialects" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/dave/_Lib/python/slab/dataanalysis.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="razzledazzle" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="razzledazzle" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rd_model">
+    <configuration name="Nosetests in mnist_example.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/mnist_example.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Nosetests in mnist.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/mnist.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="razzledazzle" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="mnist" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/UofC/code/razzledazzle" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="rd_model" type="PythonConfigurationType" factoryName="Python" singleton="true" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rd_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test_bots" type="PythonConfigurationType" factoryName="Python" singleton="true" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/UofC/code/razzledazzle/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/UofC/code/razzledazzle/tests/test_bots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" singleton="true" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="razzledazzle" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.mnist" />
+      <item index="1" class="java.lang.String" itemvalue="Python.rd_model" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in mnist_example.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in mnist.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_bots" />
+      <item index="5" class="java.lang.String" itemvalue="Python.trainer" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.rd_model" />
+        <item index="1" class="java.lang.String" itemvalue="Python.trainer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_bots" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in mnist.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in mnist_example.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c414b27e-e938-4ce3-a212-b4640cba3744" name="Default" comment="" />
+      <created>1487037146945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487037146945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_mnist_example_py - 2017.07.17 at 15h 27m 04s.xml">
+      <configuration name="Nosetests in mnist_example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_mnist_py - 2017.07.17 at 15h 32m 50s.xml">
+      <configuration name="Nosetests in mnist.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="99" y="23" width="1450" height="1023" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28764203" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43179378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Downloads/sunfish-master/sunfish.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trainer.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/mmap.py" />
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages/StdSuites/Standard_Suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4095">
+          <caret line="273" column="23" lean-forward="false" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plumbum/path/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="179" column="23" lean-forward="false" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/plumbum/path/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="179" column="23" lean-forward="false" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/h5py/h5g.pyx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4470">
+          <caret line="298" column="23" lean-forward="false" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/h5py/h5g.pyx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4470">
+          <caret line="298" column="23" lean-forward="false" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages/SystemEvents/Disk_Folder_File_Suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/h5py/h5g.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/PyQt4/QtGui/QWidget.py" />
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/h5py/h5l.pyx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="187" column="23" lean-forward="false" selection-start-line="187" selection-start-column="17" selection-end-line="187" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/h5py/_hl/group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5535">
+          <caret line="369" column="23" lean-forward="false" selection-start-line="369" selection-start-column="17" selection-end-line="369" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/h5py/h5l.pyx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="187" column="23" lean-forward="false" selection-start-line="187" selection-start-column="17" selection-end-line="187" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/h5py/_hl/group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5535">
+          <caret line="369" column="23" lean-forward="false" selection-start-line="369" selection-start-column="17" selection-end-line="369" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/h5py/h5l.py" />
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk/Canvas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" column="23" lean-forward="false" selection-start-line="181" selection-start-column="17" selection-end-line="181" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk/ttk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20340">
+          <caret line="1356" column="23" lean-forward="false" selection-start-line="1356" selection-start-column="17" selection-end-line="1356" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages/Finder/Standard_Suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="200" column="23" lean-forward="false" selection-start-line="200" selection-start-column="17" selection-end-line="200" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/PyQt4/QtCore/QStringList.py" />
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages/Terminal/Standard_Suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="23" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages/SystemEvents/Standard_Suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="23" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/PyQt4/QtGui/QRubberBand.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/py/path/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/plumbum/path/remote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="198" column="23" lean-forward="false" selection-start-line="198" selection-start-column="23" selection-end-line="198" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plumbum/path/remote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="198" column="23" lean-forward="false" selection-start-line="198" selection-start-column="17" selection-end-line="198" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/plumbum/path/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="209" column="23" lean-forward="false" selection-start-line="209" selection-start-column="17" selection-end-line="209" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plumbum/path/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="209" column="23" lean-forward="false" selection-start-line="209" selection-start-column="17" selection-end-line="209" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk/Tkdnd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="248" column="23" lean-forward="false" selection-start-line="248" selection-start-column="17" selection-end-line="248" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk/Tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2414" column="23" lean-forward="false" selection-start-line="2414" selection-start-column="17" selection-end-line="2414" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/pandas/lib.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/PyQt4/QtGui/QItemSelection.py" />
+    <entry file="file://$USER_HOME$/Dropbox/UofC/code/razzledazzle/rd_bots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/torch/nn/_functions/dropout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_bots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rd_model_old.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="270" column="17" lean-forward="false" selection-start-line="270" selection-start-column="17" selection-end-line="270" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="1590" column="0" lean-forward="false" selection-start-line="1590" selection-start-column="0" selection-end-line="1590" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/idiot_games.txt" />
+    <entry file="file://$PROJECT_DIR$/data/test.bot" />
+    <entry file="file://$PROJECT_DIR$/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="109" column="25" lean-forward="false" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#526#1188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/_Lib/python/slab/dsfit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/_Lib/python/slab/dataanalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rd_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/00000_test.bot.txt" />
+    <entry file="file://$PROJECT_DIR$/data/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multitraining notebook.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/_Lib/python/slab/datamanagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="565" column="0" lean-forward="false" selection-start-line="565" selection-start-column="0" selection-end-line="565" selection-end-column="0" />
+          <folding>
+            <element signature="e#1215#1233#0" expanded="true" />
+            <element signature="e#1385#2501#0" expanded="false" />
+            <element signature="e#2533#4143#0" expanded="false" />
+            <element signature="e#4178#4496#0" expanded="false" />
+            <element signature="e#4530#4679#0" expanded="false" />
+            <element signature="e#4706#6473#0" expanded="false" />
+            <element signature="e#6505#8175#0" expanded="false" />
+            <element signature="e#8209#15491#0" expanded="false" />
+            <element signature="e#15559#15985#0" expanded="false" />
+            <element signature="e#16010#16235#0" expanded="false" />
+            <element signature="e#16287#16388#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rd_bots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="132" column="61" lean-forward="false" selection-start-line="132" selection-start-column="61" selection-end-line="132" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="93" column="11" lean-forward="false" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rd_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
