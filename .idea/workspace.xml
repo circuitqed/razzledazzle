@@ -2,680 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c414b27e-e938-4ce3-a212-b4640cba3744" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_medium.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_medium.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00000_test.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00001_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00001_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00001_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00002_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00002_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00002_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00003_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00003_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00003_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00004_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00004_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00004_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00005_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00005_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00005_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00006_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00006_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00006_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00007_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00007_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00007_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00008_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00008_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00008_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00009_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00009_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00009_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00010_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00010_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00010_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00011_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00011_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00011_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00012_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00012_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00012_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00013_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00013_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00013_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00014_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00014_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00014_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00015_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00015_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00015_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00016_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00016_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00016_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00017_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00017_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00017_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00018_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00018_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00018_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00019_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00019_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00019_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00020_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00020_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00020_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00021_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00021_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00021_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00022_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00022_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00022_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00023_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00023_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00023_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00024_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00024_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00024_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00025_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00025_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00025_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00026_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00026_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00026_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00027_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00027_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00027_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00028_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00028_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00028_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00029_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00029_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00029_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00030_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00030_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00030_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00031_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00031_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00031_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00032_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00032_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00032_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00033_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00033_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00033_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00034_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00034_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00034_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00035_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00035_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00035_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00036_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00036_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00036_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00037_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00037_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00037_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00038_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00038_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00038_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00039_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00039_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00039_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00040_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00040_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00040_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00041_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00041_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00041_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00042_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00042_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00042_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00043_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00043_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00043_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00044_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00044_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00044_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00045_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00045_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00045_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00046_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00046_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00046_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00047_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00047_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00047_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00048_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00048_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00048_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00049_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00049_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00049_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00050_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00050_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00050_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00051_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00051_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00051_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00052_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00052_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00052_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00053_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00053_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00053_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00054_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00054_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00054_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00055_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00055_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00055_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00056_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00056_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00056_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00057_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00057_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00057_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00058_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00058_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00058_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00059_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00059_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00059_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00060_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00060_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00060_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00061_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00061_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00061_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00062_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00062_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00062_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00063_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00063_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00063_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00064_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00064_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00064_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00065_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00065_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00065_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00066_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00066_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00066_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00067_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00067_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00067_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00068_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00068_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00068_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00069_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00069_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00069_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00070_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00070_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00070_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00071_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00071_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00071_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00072_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00072_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00072_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00073_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00073_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00073_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00074_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00074_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00074_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00075_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00075_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00075_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00076_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00076_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00076_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00077_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00077_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00077_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00078_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00078_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00078_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00079_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00079_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00079_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00080_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00080_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00080_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00081_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00081_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00081_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00082_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00082_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00082_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00083_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00083_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00083_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00084_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00084_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00084_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00085_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00085_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00085_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00086_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00086_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00086_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00087_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00087_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00087_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00088_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00088_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00088_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00089_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00089_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00089_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00090_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00090_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00090_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00091_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00091_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00091_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00092_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00092_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00092_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00093_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00093_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00093_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00094_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00094_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00094_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00095_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00095_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00095_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00096_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00096_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00096_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00097_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00097_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00097_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00098_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00098_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00098_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00099_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00099_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00099_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00100_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00100_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00100_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00101_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00101_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00101_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00102_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00102_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00102_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00103_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00103_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00103_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00104_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00104_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00104_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00105_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00105_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00105_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00106_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00106_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00106_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00107_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00107_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00107_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00108_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00108_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00108_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00109_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00109_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00109_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00110_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00110_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00110_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00111_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00111_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00111_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00112_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00112_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00112_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00113_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00113_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00113_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00114_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00114_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00114_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00115_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00115_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00115_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00116_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00116_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00116_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00117_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00117_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00117_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00118_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00118_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00118_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00119_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00119_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00119_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00120_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00120_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00120_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00121_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00121_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00121_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00122_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00122_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00122_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00123_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00123_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00123_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00124_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00124_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00124_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00125_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00125_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00125_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00126_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00126_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00126_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00127_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00127_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00127_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00128_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00128_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00128_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00129_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00129_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00129_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00130_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00130_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00130_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00131_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00131_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00131_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00132_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00132_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00132_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00133_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00133_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00133_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00134_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00134_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00134_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00135_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00135_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00135_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00136_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00136_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00136_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00137_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00137_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00137_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00138_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00138_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00138_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00139_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00139_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00139_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00140_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00140_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00140_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00141_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00141_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00141_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00142_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00142_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00142_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00143_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00143_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00143_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00144_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00144_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00144_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00145_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00145_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00145_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00146_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00146_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00146_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00147_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00147_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00147_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00148_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00148_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00148_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00149_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00149_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00149_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00150_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00150_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00150_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00151_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00151_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00151_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00152_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00152_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00152_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00153_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00153_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00153_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00154_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00154_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00154_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00155_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00155_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00155_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00156_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00156_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00156_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00157_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00157_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00157_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00158_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00158_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00158_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00159_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00159_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00159_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00160_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00160_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00160_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00161_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00161_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00161_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00162_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00162_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00162_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00163_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00163_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00163_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00164_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00164_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00164_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00165_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00165_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00165_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00166_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00166_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00166_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00167_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00167_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00167_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00168_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00168_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00168_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00169_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00169_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00169_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00170_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00170_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00170_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00171_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00171_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00171_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00172_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00172_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00172_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00173_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00173_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00173_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00174_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00174_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00174_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00175_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00175_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00175_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00176_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00176_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00176_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00177_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00177_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00177_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00178_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00178_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00178_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00179_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00179_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00179_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00180_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00180_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00180_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00181_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00181_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00181_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00182_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00182_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00182_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00183_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00183_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00183_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00184_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00184_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00184_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00185_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00185_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00185_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00186_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00186_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00186_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00187_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00187_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00187_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00188_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00188_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00188_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00189_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00189_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00189_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00190_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00190_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00190_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00191_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00191_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00191_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00192_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00192_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00192_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00193_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00193_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00193_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00194_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00194_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00194_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00195_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00195_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00195_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00196_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00196_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00196_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00197_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00197_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00197_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00198_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00198_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00198_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00199_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00199_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00199_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00200_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00200_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00200_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00201_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00201_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00201_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00202_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00202_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00202_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00203_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00203_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00203_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00204_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00204_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00204_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00205_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00205_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00205_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00206_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00206_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00206_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00207_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00207_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00207_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00208_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00208_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00208_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00209_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00209_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00209_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00210_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00210_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00210_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00211_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00211_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00211_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00212_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00212_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00212_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00213_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00213_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00213_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00214_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00214_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00214_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00215_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00215_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00215_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00216_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00216_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00216_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00217_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00217_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00217_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00218_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00218_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00218_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00219_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00219_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00219_iter.bot_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00220_iter.bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/00220_iter.bot.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/big.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/iterative.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/iterative_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/medium.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/medium_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test_dataset.npz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db_create.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mnist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -710,7 +36,7 @@
       <file leaf-file-name="rd_model_old.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rd_model_old.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="4005">
               <caret line="270" column="17" lean-forward="false" selection-start-line="270" selection-start-column="17" selection-end-line="270" selection-end-column="17" />
               <folding />
             </state>
@@ -764,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rd_helpers.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rd_helpers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rd_helpers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -772,6 +98,16 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -788,7 +124,7 @@
       <file leaf-file-name="rd_bots.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rd_bots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="1890">
               <caret line="132" column="61" lean-forward="false" selection-start-line="132" selection-start-column="61" selection-end-line="132" selection-end-column="61" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -835,6 +171,7 @@
         <option value="$PROJECT_DIR$/rd_helpers.py" />
         <option value="$PROJECT_DIR$/Multitraining notebook.ipynb" />
         <option value="$PROJECT_DIR$/rd_bots.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -885,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -898,6 +234,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1313,8 +650,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="23" width="1450" height="1023" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28764203" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2919034" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1377,7 +715,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/99931984/mmap.py" />
     <entry file="file:///usr/local/Cellar/python/2.7.10/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages/StdSuites/Standard_Suite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4095">
@@ -1546,13 +883,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/games.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/games.txt" />
     <entry file="file:///usr/local/lib/python2.7/site-packages/torch/nn/_functions/dropout.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1560,13 +891,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db_create.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/db_create.py" />
     <entry file="file://$PROJECT_DIR$/tests/test_bots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1576,7 +901,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rd_model_old.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="4005">
           <caret line="270" column="17" lean-forward="false" selection-start-line="270" selection-start-column="17" selection-end-line="270" selection-end-column="17" />
           <folding />
         </state>
@@ -1627,13 +952,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/00000_test.bot.txt" />
-    <entry file="file://$PROJECT_DIR$/data/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.txt" />
     <entry file="file://$PROJECT_DIR$/Multitraining notebook.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -1661,17 +980,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py" />
     <entry file="file://$PROJECT_DIR$/rd_bots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="1890">
           <caret line="132" column="61" lean-forward="false" selection-start-line="132" selection-start-column="61" selection-end-line="132" selection-end-column="61" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -1679,14 +991,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="93" column="11" lean-forward="false" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist.py" />
     <entry file="file://$PROJECT_DIR$/rd_helpers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1694,6 +999,14 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
