@@ -11,10 +11,10 @@ class Position:
     ELIGIBLE = 1
     BALL = 1
 
-    def __init__(self, state=None, score=0):
+    def __init__(self, state=None, player=1, score=0):
         if state is None:
             state = np.zeros((Position.PIECES * 2, Position.SQUARES + Position.ELIGIBLE + Position.BALL))
-            for ii in xrange(Position.PIECES):
+            for ii in range(Position.PIECES):
                 state[ii][ii+1] = 1.0  # White players on first row
                 state[-1 - ii][Position.SQUARES - ii - 2] = 1.0  # Black players on last row
                 if ii != 2:
@@ -27,17 +27,18 @@ class Position:
 
         self.state = state
         self.score = score
+        self.player = player
         self.next_move = None
 
     def rotate(self):
         state = np.roll(self.state, Position.PIECES, axis=0)  # Swap black and white pieces
         state[:, :Position.SQUARES] = np.fliplr(state[:, :Position.SQUARES])
-        return Position(state, -self.score)
+        return Position(state, -self.player, -self.score)
 
     def board_array(self):
         board = np.zeros(Position.SQUARES)
 
-        for ii in xrange(len(self.state)):
+        for ii in range(len(self.state)):
             board += self.state[ii][:Position.SQUARES] * (ii + 1)
         return board.astype(int)
 
@@ -191,6 +192,8 @@ class RazzleDazzleGame:
         return len(self.moves)
 
 
+
+
 # The normal OrderedDict doesn't update the position of a key in the list,
 # when the value is changed.
 class LRUCache:
@@ -218,11 +221,11 @@ class LRUCache:
 
 if __name__ == "__main__":
     pos = Position()
-    print pos
+    print(pos)
     a = list(pos.generate_moves())
-    print len(a)
+    print(len(a))
     for m in a:
-        print pos.move(m)
+        print(pos.move(m))
 
     #m1 = [1, 16]
     #m2 = [3, 2, 16]

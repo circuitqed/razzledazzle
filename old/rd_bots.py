@@ -22,11 +22,7 @@ class MiniMaxBot(RazzleDazzleBot):
         # implement
 
 
-class MCTS(RazzleDazzleBot):
-    def __init__(self, name="MCTSBot"):
-        self.name = name
 
-        # implement
 
 
 class IdiotBot(RazzleDazzleBot):
@@ -43,18 +39,18 @@ class TurkBot(RazzleDazzleBot):
         self.name = name
 
     def get_move(self, position):
-        print position
+        print (position)
         legal = False
         while True:
             try:
-                m = position.parse_move(raw_input("%s move: " % self.name))
+                m = position.parse_move(input("%s move: " % self.name))
             except:
-                print "Illegal move!"
-            print m
+                print ("Illegal move!")
+            print (m)
             if position.is_legal(m):
                 break
             else:
-                print "Illegal move!"
+                print("Illegal move!")
         return m
 
 
@@ -124,8 +120,8 @@ class PositionBot(RazzleDazzleBot):
             self.posnet = PositionNet()
             self.posnet.load_state_dict(torch.load(os.path.join(self.path, name)))
         except:
-            print "Failed to load: " + os.path.join(self.path, name)
-            print "Loading new PositionNet model"
+            print("Failed to load: " + os.path.join(self.path, name))
+            print("Loading new PositionNet model")
             self.posnet = PositionNet()
 
     def get_move(self, position):
@@ -134,7 +130,7 @@ class PositionBot(RazzleDazzleBot):
         weights = (1.-self.eval_positions(positions))/2.
         weights = weights/np.sum(weights)
         if np.random.random() > 0.90:
-            m = np.random.choice(range(len(moves)),p=weights)
+            m = np.random.choice(list(range(len(moves))),p=weights)
         else:
             m = np.argmax(weights)
 

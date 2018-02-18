@@ -24,10 +24,10 @@ def itershuffle(iterable, bufsize=1000):
     buf = []
     try:
         while True:
-            for i in xrange(random.randint(1, bufsize - len(buf))):
-                buf.append(iterable.next())
+            for i in range(random.randint(1, bufsize - len(buf))):
+                buf.append(next(iterable))
             random.shuffle(buf)
-            for i in xrange(random.randint(1, bufsize)):
+            for i in range(random.randint(1, bufsize)):
                 if buf:
                     yield buf.pop()
                 else:
@@ -41,7 +41,7 @@ def itershuffle(iterable, bufsize=1000):
 
 def generate_games(bot1, bot2, games, fname=None):
     """Generate lots of random games and save to text file"""
-    for ii in tqdm.tqdm(xrange(games)):
+    for ii in tqdm.tqdm(range(games)):
         game = RazzleDazzleGame(bot1, bot2)
 
         game.play()
@@ -107,7 +107,7 @@ def train_PositionBot(name="test", datapath="data/", epochs=2):
         if args['cuda']:
             pass
             # pstates, scores = data.cuda(), value.cuda()
-        print np.array(pstates).shape
+        print(np.array(pstates).shape)
         data, value = Variable(torch.from_numpy(np.array(pstates,dtype=float)).float()), Variable(scores)
         optimizer.zero_grad()
         output = model(data)
@@ -118,7 +118,7 @@ def train_PositionBot(name="test", datapath="data/", epochs=2):
         fname = get_next_filename(path="./data/", prefix=name, suffix='.bot')
         torch.save(model.state_dict(), fname)
 
-        print "Train Epoch: %d/%d: %d positions\tLoss: %.6f" % (epoch,epochs,len(scores),loss.data[0])
+        print("Train Epoch: %d/%d: %d positions\tLoss: %.6f" % (epoch,epochs,len(scores),loss.data[0]))
 
 
 #
